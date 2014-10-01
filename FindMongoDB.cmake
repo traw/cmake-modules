@@ -1,4 +1,4 @@
-\# - Find MongoDB
+# - Find MongoDB
 # Find the MongoDB includes and client library
 # This module defines
 #  MongoDB_INCLUDE_DIR, where to find mongo/client/dbclient.h
